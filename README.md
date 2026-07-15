@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# 👩‍🎓 Users Directory
+# Users Directory
 
 A React application that displays a directory of user profiles using reusable functional components and dynamic data rendering.
 
-## 📌 Project Overview
+## Project Overview
 - Functional components
 - Props
 - Rendering lists with `data.map()`
@@ -22,14 +21,14 @@ react-components/
 ├── package.json
 ```
 
-## ▶️ Getting Started
+## Getting Started
 ```
 npm install
 npm run dev
 ```
 Open `http://localhost:5173` in your browser.
 
-## ✏️ Changing Names / Data
+## Changing Names / Data
 Open `src/main.jsx` and edit the `data` array at the top — each object is one user (name, email, phone, university, image).
 =======
 # Users-directory-React-project
