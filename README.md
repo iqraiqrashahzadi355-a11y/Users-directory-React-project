@@ -12,6 +12,12 @@ The dataset includes thirteen users, each represented by a name, email, phone nu
 
 ---
 
+## Live Link
+
+https://users-directory-react-project-eight.vercel.app/
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
